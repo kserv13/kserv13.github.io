@@ -184,12 +184,18 @@
   },
    {
     "id": "10",
-    "name": "Moselsteig Gesamtstrecke",
+    "name": "Moselsteig Seitensprung Konzer Höhenrunde",
     "url": "./resources/geojson/sonst/moselsteig_gesamtstrecke.geojson",
     "typ": "GeoJSON",
     "gfiAttributes": {
       "name": "Name",
-      "km": "Länge (km)"
+      "shortText": "Beschreibung",
+      "km": "Länge (km)",
+	  "time": "Dauer",
+	  "ascent": "Aufstieg",
+	  "descent": "Abstieg",
+	  "imgSRC": "Foto:",
+      "entryURL": "weitere Informationen"
     },
     "gfiTheme": {
       "name": "default",
@@ -200,6 +206,7 @@
       }
     },
     "styleId": "30",
+    "layerAttribution": "Saar-Obermosel-Touristik e.V., https://www.saar-obermosel.de/",
     "legendURL": "",
     "datasets": [
       {
@@ -207,5 +214,5 @@
       }
     ],	
     "urlIsVisible": false
-  }
+  },  
 ]
