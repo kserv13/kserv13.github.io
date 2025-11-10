@@ -207,5 +207,31 @@
       }
     ],	
     "urlIsVisible": false
+  },
+ {
+    "id": "11",
+    "name": "Moselhöhenweg Eifelseite",
+    "url": "./resources/geojson/sonst/Moselhoehenweg_eifel.geojson",
+    "typ": "GeoJSON",
+    "gfiAttributes": {
+      "name": "Name",
+      "km": "Länge (km)"
+    },
+    "gfiTheme": {
+      "name": "default",
+      "params": {
+        "imageLinks": [
+          "imgURL"
+        ]
+      }
+    },
+    "styleId": "33",
+    "legendURL": "",
+    "datasets": [
+      {
+        "md_id": ""
+      }
+    ],	
+    "urlIsVisible": false
   }
 ]
