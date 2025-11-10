@@ -188,7 +188,7 @@
     "url": "./resources/geojson/sonst/moselsteig_gesamtstrecke.geojson",
     "typ": "GeoJSON",
     "gfiAttributes": {
-      "title": "Name",
+      "name": "Name",
       "km": "Länge (km)"
     },
     "gfiTheme": {
