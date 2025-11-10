@@ -181,5 +181,31 @@
         "show_doc_url": "https://gdk.gdi-de.org/gdi-de/srv/ger/catalog.search#/metadata/"
 		}
     ]
-  }
+  },
+   {
+    "id": "10",
+    "name": "Moselsteig Gesamtstrecke",
+    "url": "./resources/geojson/sonst/moselsteig_gesamtstrecke.geojson",
+    "typ": "GeoJSON",
+    "gfiAttributes": {
+      "title": "Name",
+      "km": "Länge (km)"
+    },
+    "gfiTheme": {
+      "name": "default",
+      "params": {
+        "imageLinks": [
+          "imgURL"
+        ]
+      }
+    },
+    "styleId": "30",
+    "legendURL": "",
+    "datasets": [
+      {
+        "md_id": ""
+      }
+    ],	
+    "urlIsVisible": false
+  },  
 ]
