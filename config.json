@@ -10,14 +10,14 @@
       "mapView": {
         "backgroundImage": "./resources/img/backgroundCanvas.jpeg",
         "startCenter": [
-          561210,
-          5932600
+        323305,
+        5504326
         ],
         "extent": [
-          510000.0,
-          5850000.0,
-          625000.4,
-          6000000.0
+          307500.0,
+          5490000.0,
+          333969.0,
+          5510941.0
         ],
         "startZoomLevel": 1
       }
@@ -214,26 +214,26 @@
     }
   },
   "layerConfig": {
-    "baselayer": {
+     "baselayer": {
       "elements": [
         {
-          "id": "453",
-          "visibility": true
+          "id": "7"
+        },
+		{
+          "id": "3"
         },
         {
-          "id": "34127",
-          "time": false
+          "id": "8"
+        },		
+        {
+          "id": "2"
         },
         {
-          "id": "33780",
-          "name": "Geobasiskarten (farbig)"
-        },
+          "id": "5",
+          "visibility": true		  
+        },		
         {
-          "id": "topplus_wmts",
-          "name": "TopPlusOpen (WMTS)",
-          "typ": "WMTS",
-          "visibility": false,
-          "showInLayerTree": true
+          "id": "4"
         }
       ]
     },
