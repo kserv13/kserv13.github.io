@@ -88,5 +88,139 @@
         }
       }
     ]
+  },
+   {
+    "styleId": "40",
+    "rules": [
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F1"
+          }
+        },
+        "style": {
+          "legendValue": "Moselsteig ungerade",
+          "lineStrokeColor": [
+            200,
+            40,
+            40,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F2"
+          }
+        },
+        "style": {
+          "legendValue": "Moselsteig gerade",
+          "lineStrokeColor": [
+            255,
+            70,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },	  
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "finished"
+          }
+        },
+        "style": {
+          "legendValue": "Moselsteig geschafft",
+          "lineStrokeColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      }
+    ]
+  },
+     {
+    "styleId": "41",
+    "rules": [
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F1"
+          }
+        },
+        "style": {
+          "legendValue": "Seitensprung",
+          "lineStrokeColor": [
+            200,
+            100,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },	  
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "finished"
+          }
+        },
+        "style": {
+          "legendValue": "Seitensprung geschafft",
+          "lineStrokeColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      }
+    ]
+  },
+       {
+    "styleId": "42",
+    "rules": [
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F1"
+          }
+        },
+        "style": {
+          "legendValue": "Traumschleife",
+          "lineStrokeColor": [
+            0,
+            205,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },	  
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "finished"
+          }
+        },
+        "style": {
+          "legendValue": "Traumschleife geschafft",
+          "lineStrokeColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      }
+    ]
   }
 ]
