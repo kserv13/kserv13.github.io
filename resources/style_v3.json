@@ -4,7 +4,7 @@
     "rules": [
       {
         "style": {
-          "legendValue": "Wanderweg Premium",
+          "legendValue": "Moselsteig Gesamtstrecke",
           "lineStrokeColor": [
             240,
             60,
@@ -21,7 +21,7 @@
     "rules": [
       {
         "style": {
-          "legendValue": "Wanderweg Regional",
+          "legendValue": "Moselhöhenweg",
           "lineStrokeColor": [
             160,
             120,
@@ -38,7 +38,7 @@
     "rules": [
       {
         "style": {
-          "legendValue": "Stadtrundgänge",
+          "legendValue": "Jakobsweg",
           "lineStrokeColor": [
             255,
             0,
@@ -55,7 +55,7 @@
     "rules": [
       {
         "style": {
-          "legendValue": "Radweg",
+          "legendValue": "MoselCamino",
           "lineStrokeColor": [
             65,
             100,
