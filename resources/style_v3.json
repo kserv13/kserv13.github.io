@@ -194,7 +194,7 @@
           }
         },
         "style": {
-          "legendValue": "Traumschleife Farbe1",
+          "legendValue": "Traumschleife Farbe 1",
           "lineStrokeColor": [
             0,
             205,
@@ -211,7 +211,7 @@
           }
         },
         "style": {
-          "legendValue": "Traumschleife Farbe2",
+          "legendValue": "Traumschleife Farbe 2 ",
           "lineStrokeColor": [
             0,
             140,
@@ -233,6 +233,62 @@
             100,
             100,
             100,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      }
+    ]
+  },
+         {
+    "styleId": "43",
+    "rules": [
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F1"
+          }
+        },
+        "style": {
+          "legendValue": "Eifelsteig Farbe 1",
+          "lineStrokeColor": [
+            240,
+            240,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F2"
+          }
+        },
+        "style": {
+          "legendValue": "Eifelsteig Farbe 2 ",
+          "lineStrokeColor": [
+            255,
+            165,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },	  
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "finished"
+          }
+        },
+        "style": {
+          "legendValue": "Eifelsteig geschafft",
+          "lineStrokeColor": [
+            150,
+            150,
+            150,
             1
           ],
           "lineStrokeWidth": 3
