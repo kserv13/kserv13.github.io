@@ -203,6 +203,23 @@
           ],
           "lineStrokeWidth": 3
         }
+      },
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F2"
+          }
+        },
+        "style": {
+          "legendValue": "Traumschleife",
+          "lineStrokeColor": [
+            0,
+            140,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
       },	  
       {
         "conditions": {
