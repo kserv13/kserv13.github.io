@@ -230,9 +230,9 @@
         "style": {
           "legendValue": "Traumschleife geschafft",
           "lineStrokeColor": [
-            0,
-            0,
-            0,
+            100,
+            100,
+            100,
             1
           ],
           "lineStrokeWidth": 3
