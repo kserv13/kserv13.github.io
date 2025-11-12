@@ -194,7 +194,7 @@
           }
         },
         "style": {
-          "legendValue": "Traumschleife",
+          "legendValue": "Traumschleife Farbe 1",
           "lineStrokeColor": [
             0,
             205,
@@ -211,7 +211,7 @@
           }
         },
         "style": {
-          "legendValue": "Traumschleife",
+          "legendValue": "Traumschleife Farbe 2",
           "lineStrokeColor": [
             0,
             140,
