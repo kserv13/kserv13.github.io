@@ -1,6 +1,10 @@
 {
   "portalConfig": {
     "map": {
+		  "baselayerSwitcher": {
+        "active": true,
+        "activatedExpandable": false		  
+	  },	
       "controls": {
         "zoom": true,
         "orientation": {
@@ -26,9 +30,9 @@
       "urls": [
         {
           "bezeichnung": "common:modules.portalFooter.designation",
-          "url": "",
-          "alias": "",
-          "alias_mobile": ""
+          "url": "Kerstin",
+          "alias": "13",
+          "alias_mobile": "Kserv13"
         }
       ]
     },
@@ -55,7 +59,7 @@
             "lang": "de",
             "lat": 53.6,
             "lon": 10.0,
-            "bbox": "9.6,53.3,10.4,53.8"
+            "bbox": "6.4,49.55,6.7,49.75"
           },
           {
             "type": "visibleVector",
@@ -80,29 +84,6 @@
         [
           {
             "type": "fileImport"
-          },
-          {
-            "type": "openConfig"
-          },
-          {
-            "type": "contact",
-            "serviceId": "80001",
-            "includeSystemInfo": true,
-            "from": [
-              {
-                "email": "lgvgeoportal-hilfe@gv.hamburg.de",
-                "name": "LGVGeoportalHilfe"
-              }
-            ],
-            "to": [
-              {
-                "email": "lgvgeoportal-hilfe@gv.hamburg.de",
-                "name": "LGVGeoportalHilfe"
-              }
-            ]
-          },
-          {
-            "type": "language"
           }
         ]
       ]
@@ -175,39 +156,6 @@
             "heightValueWater": "-20",
             "heightValueBuilding": "200",
             "zoomLevel": 5
-          },
-          {
-            "type": "bufferAnalysis"
-          },
-          {
-            "type": "layerSlider",
-            "layerIds": [
-              {
-                "title": "common:modules.layerSlider.serviceOne",
-                "layerId": "19173"
-              },
-              {
-                "title": "common:modules.layerSlider.serviceTwo",
-                "layerId": "2426"
-              },
-              {
-                "title": "common:modules.layerSlider.serviceThree",
-                "layerId": "8712.2"
-              },
-              {
-                "title": "common:modules.layerSlider.serviceFour",
-                "layerId": "1711"
-              }
-            ]
-          },
-          {
-            "type": "layerClusterToggler",
-            "layerIdList": [
-              "8712.1",
-              "8712.2",
-              "8712.3",
-              "8712.4"
-            ]
           }
         ]
       ]
