@@ -31,8 +31,8 @@
         {
           "bezeichnung": "common:modules.portalFooter.designation",
           "url": "Kerstin",
-          "alias": "13",
-          "alias_mobile": "Kserv13"
+          "alias": "Kerstin",
+          "alias_mobile": "Kerstin"
         }
       ]
     },
@@ -44,7 +44,7 @@
     "mainMenu": {
       "expanded": true,
       "title": {
-        "text": "Wandergis",
+        "text": "WanderGIS",
         "logo": "",
         "link": "",
         "toolTip": ""
