@@ -38,7 +38,7 @@
     },
     "tree": {
       "addLayerButton": {
-        "active": true,
+        "active": false,
         "searchBar": {
           "active": false,
           "searchInterfaceInstanceId": "elasticSearch_0",
