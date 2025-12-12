@@ -205,8 +205,16 @@
           "id": "15",
            "visibility": true
         },
-						                {
+					                {
           "id": "16",
+           "visibility": true
+        },
+		  				                {
+          "id": "18",
+           "visibility": true
+        },
+						                {
+          "id": "19",
            "visibility": true
         }
       ]
