@@ -44,10 +44,10 @@
     "mainMenu": {
       "expanded": true,
       "title": {
-        "text": "Unsere Wanderrouten",
-        "logo": "./resources/img/mp_logo.png",
-        "link": "https://masterportal.org",
-        "toolTip": "Masterportal"
+        "text": "Wandergis",
+        "logo": "",
+        "link": "",
+        "toolTip": ""
       },
       "searchBar": {
         "searchInterfaces": [
