@@ -105,51 +105,6 @@
       "sections": [
         [
           {
-            "delete": true,
-            "update": true,
-            "multiUpdate": [
-              {
-                "layerId": "lgvpoint",
-                "available": true,
-                "configAttributes": ["name"],
-                "controlAttributes": ["gemeinde"]
-              }
-            ],
-            "type": "wfst",
-            "name": "WFS-T Tool",
-            "layerIds": [
-              "lgvpolygon",
-              "lgvpoint",
-              "lgvline",
-              "1122"
-            ],
-            "toggleLayer": false,
-            "lineButton": [
-              {
-                "layerId": "lgvline",
-                "available": true
-              }
-            ],
-            "pointButton": [
-              {
-                "layerId": "lgvpoint",
-                "available": true
-              }
-            ],
-            "polygonButton": [
-              {
-                "layerId": "lgvpolygon",
-                "available": true
-              }
-            ],
-            "multipolygonButton": [ 
-              { 
-                "layerId": "1122", 
-                "available": true
-              }
-            ]
-          },
-          {
             "type": "legend"
           },
           {
