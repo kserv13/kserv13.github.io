@@ -240,63 +240,7 @@
       }
     ]
   },
-         {
-    "styleId": "43",
-    "rules": [
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "F1"
-          }
-        },
-        "style": {
-          "legendValue": "Eifelsteig Farbe 1",
-          "lineStrokeColor": [
-            240,
-            240,
-            0,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
-      },
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "F2"
-          }
-        },
-        "style": {
-          "legendValue": "Eifelsteig Farbe 2 ",
-          "lineStrokeColor": [
-            255,
-            165,
-            0,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
-      },	  
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "finished"
-          }
-        },
-        "style": {
-          "legendValue": "Eifelsteig geschafft",
-          "lineStrokeColor": [
-            150,
-            150,
-            150,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
-      }
-    ]
-  },
-         {
+   {
     "styleId": "44",
     "rules": [
       {
@@ -342,9 +286,9 @@
         "style": {
           "legendValue": "Lieserpfad geschafft",
           "lineStrokeColor": [
-            120,
-            120,
-            120,
+            150,
+            150,
+            150,
             1
           ],
           "lineStrokeWidth": 3
@@ -352,7 +296,7 @@
       }
     ]
   },
-           {
+   {
     "styleId": "45",
     "rules": [
       {
@@ -364,14 +308,14 @@
         "style": {
           "legendValue": "Hohes Venn",
           "lineStrokeColor": [
-            30,
-            140,
-            255,
+            0,
+            205,
+            0,
             1
           ],
           "lineStrokeWidth": 3
         }
-      },  
+      },	  
       {
         "conditions": {
           "properties": {
@@ -380,6 +324,62 @@
         },
         "style": {
           "legendValue": "Hohes Venn geschafft",
+          "lineStrokeColor": [
+            120,
+            120,
+            120,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      }
+    ]
+  },
+         {
+    "styleId": "43",
+    "rules": [
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F1"
+          }
+        },
+        "style": {
+          "legendValue": "Eifelsteig Farbe 1",
+          "lineStrokeColor": [
+            240,
+            240,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F2"
+          }
+        },
+        "style": {
+          "legendValue": "Eifelsteig Farbe 2 ",
+          "lineStrokeColor": [
+            255,
+            165,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },	  
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "finished"
+          }
+        },
+        "style": {
+          "legendValue": "Eifelsteig geschafft",
           "lineStrokeColor": [
             150,
             150,
