@@ -53,6 +53,8 @@
     },
     "mainMenu": {
       "expanded": true,
+	  "currentComponent": "addLayerButton",
+	  "showDescription": false,	
       "title": {
         "text": "WanderGIS",
         "logo": "",
