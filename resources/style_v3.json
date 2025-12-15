@@ -347,9 +347,9 @@
         "style": {
           "legendValue": "NaturWanderPark delux Farbe 1",
           "lineStrokeColor": [
-            110,
-            140,
-            60,
+            238,
+            118,
+            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -364,9 +364,9 @@
         "style": {
           "legendValue": "NaturWanderPark delux Farbe 2 ",
           "lineStrokeColor": [
-            165,
-            200,
-            90,
+            255,
+            140,
+            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -403,9 +403,9 @@
         "style": {
           "legendValue": "Naturpark Südeifel Farbe 1",
           "lineStrokeColor": [
-            110,
-            140,
-            60,
+            24,
+            116,
+            205,
             1
           ],
           "lineStrokeWidth": 3
@@ -420,9 +420,9 @@
         "style": {
           "legendValue": "Naturpark Südeifel Farbe 2 ",
           "lineStrokeColor": [
-            165,
-            200,
-            90,
+            30,
+            144,
+            255,
             1
           ],
           "lineStrokeWidth": 3
