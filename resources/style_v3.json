@@ -28,7 +28,7 @@
             240,
             1
           ],
-          "lineStrokeWidth": 5
+          "lineStrokeWidth": 4
         }
       }
     ]
@@ -436,6 +436,118 @@
         },
         "style": {
           "legendValue": "Naturpark Südeifel geschafft",
+          "lineStrokeColor": [
+            150,
+            150,
+            150,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      }
+    ]
+  },
+ {
+    "styleId": "22",
+    "rules": [
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F1"
+          }
+        },
+        "style": {
+          "legendValue": "Heimatspur Farbe 1",
+          "lineStrokeColor": [
+            24,
+            116,
+            205,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F2"
+          }
+        },
+        "style": {
+          "legendValue": "Heimatspur Farbe 2 ",
+          "lineStrokeColor": [
+            30,
+            144,
+            255,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },	  
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "finished"
+          }
+        },
+        "style": {
+          "legendValue": "Heimatspur geschafft",
+          "lineStrokeColor": [
+            150,
+            150,
+            150,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      }
+    ]
+  }, 
+  {
+    "styleId": "23",
+    "rules": [
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F1"
+          }
+        },
+        "style": {
+          "legendValue": "Vulkaneifelpfad Farbe 1",
+          "lineStrokeColor": [
+            24,
+            116,
+            205,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F2"
+          }
+        },
+        "style": {
+          "legendValue": "Vulkaneifelpfad Farbe 2 ",
+          "lineStrokeColor": [
+            30,
+            144,
+            255,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },	  
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "finished"
+          }
+        },
+        "style": {
+          "legendValue": "Vulkaneifelpfad geschafft",
           "lineStrokeColor": [
             150,
             150,
