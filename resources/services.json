@@ -356,6 +356,58 @@
     "urlIsVisible": false
   },
              {
+    "id": "21",
+    "name": "Naturpark Südeifel",
+    "url": "./resources/geojson/sonst/naturpark_suedeifel.geojson",
+    "typ": "GeoJSON",
+    "gfiAttributes": {
+      "name": "Name",
+      "km": "Länge (km)"
+    },
+    "gfiTheme": {
+      "name": "default",
+      "params": {
+        "imageLinks": [
+          "imgURL"
+        ]
+      }
+    },
+    "styleId": "47",
+    "legendURL": "",
+    "datasets": [
+      {
+        "md_id": ""
+      }
+    ],	
+    "urlIsVisible": false
+  },	
+	{
+    "id": "20",
+    "name": "NaturWanderpark delux",
+    "url": "./resources/geojson/sonst/delux.geojson",
+    "typ": "GeoJSON",
+    "gfiAttributes": {
+      "name": "Name",
+      "km": "Länge (km)"
+    },
+    "gfiTheme": {
+      "name": "default",
+      "params": {
+        "imageLinks": [
+          "imgURL"
+        ]
+      }
+    },
+    "styleId": "46",
+    "legendURL": "",
+    "datasets": [
+      {
+        "md_id": ""
+      }
+    ],	
+    "urlIsVisible": false
+  },
+             {
     "id": "19",
     "name": "Hohes Venn",
     "url": "./resources/geojson/sonst/Hohes_Venn.geojson",
