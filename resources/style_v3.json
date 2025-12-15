@@ -230,9 +230,9 @@
         "style": {
           "legendValue": "Traumschleife geschafft",
           "lineStrokeColor": [
-            100,
-            100,
-            100,
+            0,
+            0,
+            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -286,9 +286,9 @@
         "style": {
           "legendValue": "Lieserpfad geschafft",
           "lineStrokeColor": [
-            150,
-            150,
-            150,
+            0,
+            0,
+            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -325,9 +325,9 @@
         "style": {
           "legendValue": "Hohes Venn geschafft",
           "lineStrokeColor": [
-            120,
-            120,
-            120,
+            0,
+            0,
+            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -381,9 +381,9 @@
         "style": {
           "legendValue": "NaturWanderPark delux geschafft",
           "lineStrokeColor": [
-            150,
-            150,
-            150,
+            0,
+            0,
+            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -437,9 +437,9 @@
         "style": {
           "legendValue": "Naturpark Südeifel geschafft",
           "lineStrokeColor": [
-            150,
-            150,
-            150,
+            0,
+            0,
+            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -493,9 +493,9 @@
         "style": {
           "legendValue": "Heimatspur geschafft",
           "lineStrokeColor": [
-            150,
-            150,
-            150,
+            0,
+            0,
+            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -549,9 +549,9 @@
         "style": {
           "legendValue": "Vulkaneifelpfad geschafft",
           "lineStrokeColor": [
-            150,
-            150,
-            150,
+            0,
+            0,
+            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -605,9 +605,9 @@
         "style": {
           "legendValue": "Eifelsteig geschafft",
           "lineStrokeColor": [
-            150,
-            150,
-            150,
+            0,
+            0,
+            0,
             1
           ],
           "lineStrokeWidth": 3
