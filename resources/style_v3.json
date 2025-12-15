@@ -459,9 +459,9 @@
         "style": {
           "legendValue": "Heimatspur Farbe 1",
           "lineStrokeColor": [
-            24,
-            116,
+            102,
             205,
+            170,
             1
           ],
           "lineStrokeWidth": 3
@@ -476,9 +476,9 @@
         "style": {
           "legendValue": "Heimatspur Farbe 2 ",
           "lineStrokeColor": [
-            30,
-            144,
-            255,
+            118,
+            238,
+            198,
             1
           ],
           "lineStrokeWidth": 3
@@ -515,8 +515,8 @@
         "style": {
           "legendValue": "Vulkaneifelpfad Farbe 1",
           "lineStrokeColor": [
-            24,
-            116,
+            106,
+            90,
             205,
             1
           ],
@@ -532,8 +532,8 @@
         "style": {
           "legendValue": "Vulkaneifelpfad Farbe 2 ",
           "lineStrokeColor": [
-            30,
-            144,
+            130,
+            110,
             255,
             1
           ],
