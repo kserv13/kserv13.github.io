@@ -459,6 +459,32 @@
     ],	
     "urlIsVisible": false
   },
+			{
+    "id": "24",
+    "name": "Sonstige",
+    "url": "./resources/geojson/sonst/Sonstige.geojson",
+    "typ": "GeoJSON",
+    "gfiAttributes": {
+      "name": "Name",
+      "km": "Länge (km)"
+    },
+    "gfiTheme": {
+      "name": "default",
+      "params": {
+        "imageLinks": [
+          "imgURL"
+        ]
+      }
+    },
+    "styleId": "24",
+    "legendURL": "",
+    "datasets": [
+      {
+        "md_id": ""
+      }
+    ],	
+    "urlIsVisible": false
+  },
              {
     "id": "19",
     "name": "Hohes Venn",
