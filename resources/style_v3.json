@@ -503,7 +503,7 @@
       }
     ]
   }, 
-  {
+    {
     "styleId": "23",
     "rules": [
       {
@@ -548,6 +548,62 @@
         },
         "style": {
           "legendValue": "Vulkaneifelpfad geschafft",
+          "lineStrokeColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "24",
+    "rules": [
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F1"
+          }
+        },
+        "style": {
+          "legendValue": "Sonstige Farbe 1",
+          "lineStrokeColor": [
+            106,
+            90,
+            205,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F2"
+          }
+        },
+        "style": {
+          "legendValue": "Sonstige Farbe 2 ",
+          "lineStrokeColor": [
+            130,
+            110,
+            255,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },	  
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "finished"
+          }
+        },
+        "style": {
+          "legendValue": "Sonstige geschafft",
           "lineStrokeColor": [
             0,
             0,
