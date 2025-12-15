@@ -420,9 +420,9 @@
         "style": {
           "legendValue": "Naturpark Südeifel Farbe 2 ",
           "lineStrokeColor": [
-            30,
-            144,
-            255,
+            0,
+            178,
+            238,
             1
           ],
           "lineStrokeWidth": 3
