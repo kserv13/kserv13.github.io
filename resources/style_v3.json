@@ -1,6 +1,6 @@
 [
   {
-    "styleId": "30",
+    "styleId": "10",
     "rules": [
       {
         "style": {
@@ -17,7 +17,7 @@
     ]
   },
     {
-    "styleId": "33",
+    "styleId": "11",
     "rules": [
       {
         "style": {
@@ -34,7 +34,7 @@
     ]
   },
       {
-    "styleId": "34",
+    "styleId": "12",
     "rules": [
       {
         "style": {
@@ -51,7 +51,7 @@
     ]
   },
   {
-    "styleId": "31",
+    "styleId": "13",
     "rules": [
       {
         "style": {
@@ -90,7 +90,7 @@
     ]
   },
    {
-    "styleId": "40",
+    "styleId": "17",
     "rules": [
       {
         "conditions": {
@@ -146,7 +146,7 @@
     ]
   },
      {
-    "styleId": "41",
+    "styleId": "14",
     "rules": [
       {
         "conditions": {
@@ -185,7 +185,7 @@
     ]
   },
        {
-    "styleId": "42",
+    "styleId": "15",
     "rules": [
       {
         "conditions": {
@@ -241,7 +241,7 @@
     ]
   },
    {
-    "styleId": "44",
+    "styleId": "18",
     "rules": [
       {
         "conditions": {
@@ -297,7 +297,7 @@
     ]
   },
    {
-    "styleId": "45",
+    "styleId": "19",
     "rules": [
       {
         "conditions": {
@@ -335,8 +335,120 @@
       }
     ]
   },
+   {
+    "styleId": "20",
+    "rules": [
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F1"
+          }
+        },
+        "style": {
+          "legendValue": "NaturWanderPark delux Farbe 1",
+          "lineStrokeColor": [
+            110,
+            140,
+            60,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F2"
+          }
+        },
+        "style": {
+          "legendValue": "NaturWanderPark delux Farbe 2 ",
+          "lineStrokeColor": [
+            165,
+            200,
+            90,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },	  
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "finished"
+          }
+        },
+        "style": {
+          "legendValue": "NaturWanderPark delux geschafft",
+          "lineStrokeColor": [
+            150,
+            150,
+            150,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      }
+    ]
+  },
+     {
+    "styleId": "21",
+    "rules": [
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F1"
+          }
+        },
+        "style": {
+          "legendValue": "Naturpark Südeifel Farbe 1",
+          "lineStrokeColor": [
+            110,
+            140,
+            60,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F2"
+          }
+        },
+        "style": {
+          "legendValue": "Naturpark Südeifel Farbe 2 ",
+          "lineStrokeColor": [
+            165,
+            200,
+            90,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },	  
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "finished"
+          }
+        },
+        "style": {
+          "legendValue": "Naturpark Südeifel geschafft",
+          "lineStrokeColor": [
+            150,
+            150,
+            150,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      }
+    ]
+  },
          {
-    "styleId": "43",
+    "styleId": "16",
     "rules": [
       {
         "conditions": {
