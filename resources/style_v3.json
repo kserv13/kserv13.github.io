@@ -588,8 +588,8 @@
         "style": {
           "legendValue": "Eifelsteig Farbe 2 ",
           "lineStrokeColor": [
-            255,
-            165,
+            205,
+            205,
             0,
             1
           ],
