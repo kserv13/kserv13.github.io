@@ -383,7 +383,7 @@
   },	
 	{
     "id": "20",
-    "name": "NaturWanderpark delux",
+    "name": "NaturWanderPark delux",
     "url": "./resources/geojson/sonst/delux.geojson",
     "typ": "GeoJSON",
     "gfiAttributes": {
@@ -399,6 +399,58 @@
       }
     },
     "styleId": "20",
+    "legendURL": "",
+    "datasets": [
+      {
+        "md_id": ""
+      }
+    ],	
+    "urlIsVisible": false
+  },
+		{
+    "id": "22",
+    "name": "Heimatspuren",
+    "url": "./resources/geojson/sonst/heimatspur.geojson",
+    "typ": "GeoJSON",
+    "gfiAttributes": {
+      "name": "Name",
+      "km": "Länge (km)"
+    },
+    "gfiTheme": {
+      "name": "default",
+      "params": {
+        "imageLinks": [
+          "imgURL"
+        ]
+      }
+    },
+    "styleId": "22",
+    "legendURL": "",
+    "datasets": [
+      {
+        "md_id": ""
+      }
+    ],	
+    "urlIsVisible": false
+  },
+		{
+    "id": "23",
+    "name": "Vulkaneifelpfade",
+    "url": "./resources/geojson/sonst/vulkaneifelpfade.geojson",
+    "typ": "GeoJSON",
+    "gfiAttributes": {
+      "name": "Name",
+      "km": "Länge (km)"
+    },
+    "gfiTheme": {
+      "name": "default",
+      "params": {
+        "imageLinks": [
+          "imgURL"
+        ]
+      }
+    },
+    "styleId": "23",
     "legendURL": "",
     "datasets": [
       {
