@@ -481,6 +481,28 @@
     ],	
     "urlIsVisible": false
   },
+  			{
+    "id": "25",
+    "name": "Traumpfade und -pfädchen",
+    "url": "./resources/geojson/sonst/traumpfade.geojson",
+    "typ": "GeoJSON",
+    "gfiAttributes": {
+      "name": "Name",
+      "km": "Länge (km)",
+	  "height": "Höhenmeter",
+	  "datum": "Gewandert am:",
+	  "link": "Link"
+    },
+	"gfiTheme": "default",
+    "styleId": "25",
+    "legendURL": "",
+    "datasets": [
+      {
+        "md_id": ""
+      }
+    ],	
+    "urlIsVisible": false
+  },
              {
     "id": "19",
     "name": "Hohes Venn",
