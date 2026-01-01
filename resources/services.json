@@ -232,16 +232,12 @@
     "typ": "GeoJSON",
     "gfiAttributes": {
       "name": "Name",
-      "km": "Länge (km)"
+      "km": "Länge (km)",
+	  "height": "Höhenmeter",
+	  "datum": "Gewandert am:",
+	  "link": "Link"
     },
-    "gfiTheme": {
-      "name": "default",
-      "params": {
-        "imageLinks": [
-          "imgURL"
-        ]
-      }
-    },
+	"gfiTheme": "default",
     "styleId": "14",
     "legendURL": "",
     "datasets": [
