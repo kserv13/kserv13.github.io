@@ -254,16 +254,12 @@
     "typ": "GeoJSON",
     "gfiAttributes": {
       "name": "Name",
-      "km": "Länge (km)"
+      "km": "Länge (km)",
+	  "height": "Höhenmeter",
+	  "datum": "Gewandert am:",
+	  "link": "Link"
     },
-    "gfiTheme": {
-      "name": "default",
-      "params": {
-        "imageLinks": [
-          "imgURL"
-        ]
-      }
-    },
+	"gfiTheme": "default",
     "styleId": "15",
     "legendURL": "",
     "datasets": [
@@ -306,16 +302,12 @@
     "typ": "GeoJSON",
     "gfiAttributes": {
       "name": "Name",
-      "km": "Länge (km)"
+      "km": "Länge (km)",
+	  "height": "Höhenmeter",
+	  "datum": "Gewandert am:",
+	  "link": "Link"
     },
-    "gfiTheme": {
-      "name": "default",
-      "params": {
-        "imageLinks": [
-          "imgURL"
-        ]
-      }
-    },
+	"gfiTheme": "default",
     "styleId": "17",
     "legendURL": "",
     "datasets": [
@@ -462,16 +454,12 @@
     "typ": "GeoJSON",
     "gfiAttributes": {
       "name": "Name",
-      "km": "Länge (km)"
+      "km": "Länge (km)",
+	  "height": "Höhenmeter",
+	  "datum": "Gewandert am:",
+	  "link": "Link"
     },
-    "gfiTheme": {
-      "name": "default",
-      "params": {
-        "imageLinks": [
-          "imgURL"
-        ]
-      }
-    },
+	"gfiTheme": "default",
     "styleId": "24",
     "legendURL": "",
     "datasets": [
@@ -495,6 +483,28 @@
     },
 	"gfiTheme": "default",
     "styleId": "25",
+    "legendURL": "",
+    "datasets": [
+      {
+        "md_id": ""
+      }
+    ],	
+    "urlIsVisible": false
+  },
+    			{
+    "id": "26",
+    "name": "Saar-Hunsrück-Steig",
+    "url": "./resources/geojson/sonst/saarhunsruecksteig.geojson",
+    "typ": "GeoJSON",
+    "gfiAttributes": {
+      "name": "Name",
+      "km": "Länge (km)",
+	  "height": "Höhenmeter",
+	  "datum": "Gewandert am:",
+	  "link": "Link"
+    },
+	"gfiTheme": "default",
+    "styleId": "26",
     "legendURL": "",
     "datasets": [
       {
