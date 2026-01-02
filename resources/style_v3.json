@@ -671,6 +671,62 @@
       }
     ]
   },
+      {
+    "styleId": "26",
+    "rules": [
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F1"
+          }
+        },
+        "style": {
+          "legendValue": "Saar-Hunsrück-Steig 1",
+          "lineStrokeColor": [
+            255,
+            215,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F2"
+          }
+        },
+        "style": {
+          "legendValue": "Saar-Hunsrück-Steig 2 ",
+          "lineStrokeColor": [
+            240,
+            180,
+            30,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },	  
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "finished"
+          }
+        },
+        "style": {
+          "legendValue": "Saar-Hunsrück-Steig geschafft",
+          "lineStrokeColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      }
+    ]
+  },
          {
     "styleId": "16",
     "rules": [
