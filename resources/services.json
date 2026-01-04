@@ -257,6 +257,7 @@
       "name": "Name",
       "km": "Länge (km)",
 	  "height": "Höhenmeter",
+	  "erlebnis": "Erlebnispunkte",
 	  "datum": "Gewandert am:",
 	  "link": "Link"
     },
