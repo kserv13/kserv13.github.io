@@ -352,7 +352,11 @@
     "typ": "GeoJSON",
     "gfiAttributes": {
       "name": "Name",
-      "km": "Länge (km)"
+      "km": "Länge (km)",
+	  "height": "Höhenmeter",
+	  "erlebnis": "Erlebnispunkte",
+	  "datum": "Gewandert am:",
+	  "link": "Link"
     },
     "gfiTheme": {
       "name": "default",
@@ -378,7 +382,11 @@
     "typ": "GeoJSON",
     "gfiAttributes": {
       "name": "Name",
-      "km": "Länge (km)"
+      "km": "Länge (km)",
+	  "height": "Höhenmeter",
+	  "erlebnis": "Erlebnispunkte",
+	  "datum": "Gewandert am:",
+	  "link": "Link"
     },
     "gfiTheme": {
       "name": "default",
@@ -458,6 +466,7 @@
       "name": "Name",
       "km": "Länge (km)",
 	  "height": "Höhenmeter",
+	  "erlebnis": "Erlebnispunkte",
 	  "datum": "Gewandert am:",
 	  "link": "Link"
     },
