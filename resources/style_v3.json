@@ -99,7 +99,7 @@
           }
         },
         "style": {
-          "legendValue": "Moselsteig ungerade",
+          "legendValue": "Moselsteig",
           "lineStrokeColor": [
             200,
             40,
@@ -116,27 +116,10 @@
           }
         },
         "style": {
-          "legendValue": "Moselsteig gerade",
+          "legendValue": "Moselsteig",
           "lineStrokeColor": [
             255,
             70,
-            0,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
-      },	  
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "finished"
-          }
-        },
-        "style": {
-          "legendValue": "Moselsteig geschafft",
-          "lineStrokeColor": [
-            0,
-            0,
             0,
             1
           ],
@@ -164,23 +147,6 @@
           ],
           "lineStrokeWidth": 3
         }
-      },	  
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "finished"
-          }
-        },
-        "style": {
-          "legendValue": "Seitensprung geschafft",
-          "lineStrokeColor": [
-            0,
-            0,
-            0,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
       }
     ]
   },
@@ -194,7 +160,7 @@
           }
         },
         "style": {
-          "legendValue": "Traumschleife Farbe 1",
+          "legendValue": "Traumschleife",
           "lineStrokeColor": [
             0,
             205,
@@ -211,27 +177,10 @@
           }
         },
         "style": {
-          "legendValue": "Traumschleife Farbe 2 ",
+          "legendValue": "Traumschleife",
           "lineStrokeColor": [
             0,
             140,
-            0,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
-      },	  
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "finished"
-          }
-        },
-        "style": {
-          "legendValue": "Traumschleife geschafft",
-          "lineStrokeColor": [
-            0,
-            0,
             0,
             1
           ],
@@ -250,7 +199,7 @@
           }
         },
         "style": {
-          "legendValue": "Lieserpfad Farbe 1",
+          "legendValue": "Lieserpfad",
           "lineStrokeColor": [
             110,
             140,
@@ -267,28 +216,11 @@
           }
         },
         "style": {
-          "legendValue": "Lieserpfad Farbe 2 ",
+          "legendValue": "Lieserpfad",
           "lineStrokeColor": [
             165,
             200,
             90,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
-      },	  
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "finished"
-          }
-        },
-        "style": {
-          "legendValue": "Lieserpfad geschafft",
-          "lineStrokeColor": [
-            0,
-            0,
-            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -323,10 +255,10 @@
           }
         },
         "style": {
-          "legendValue": "Hohes Venn geschafft",
+          "legendValue": "Hohes Venn",
           "lineStrokeColor": [
             0,
-            0,
+            205,
             0,
             1
           ],
@@ -345,7 +277,7 @@
           }
         },
         "style": {
-          "legendValue": "NaturWanderPark delux Farbe 1",
+          "legendValue": "NaturWanderPark delux",
           "lineStrokeColor": [
             238,
             118,
@@ -362,27 +294,10 @@
           }
         },
         "style": {
-          "legendValue": "NaturWanderPark delux Farbe 2 ",
+          "legendValue": "NaturWanderPark delux",
           "lineStrokeColor": [
             255,
             140,
-            0,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
-      },	  
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "finished"
-          }
-        },
-        "style": {
-          "legendValue": "NaturWanderPark delux geschafft",
-          "lineStrokeColor": [
-            0,
-            0,
             0,
             1
           ],
@@ -401,7 +316,7 @@
           }
         },
         "style": {
-          "legendValue": "Naturpark Südeifel Farbe 1",
+          "legendValue": "Naturpark Südeifel",
           "lineStrokeColor": [
             24,
             116,
@@ -418,28 +333,11 @@
           }
         },
         "style": {
-          "legendValue": "Naturpark Südeifel Farbe 2 ",
+          "legendValue": "Naturpark Südeifel",
           "lineStrokeColor": [
             0,
             178,
             238,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
-      },	  
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "finished"
-          }
-        },
-        "style": {
-          "legendValue": "Naturpark Südeifel geschafft",
-          "lineStrokeColor": [
-            0,
-            0,
-            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -457,7 +355,7 @@
           }
         },
         "style": {
-          "legendValue": "Heimatspur Farbe 1",
+          "legendValue": "Heimatspur",
           "lineStrokeColor": [
             102,
             205,
@@ -474,28 +372,11 @@
           }
         },
         "style": {
-          "legendValue": "Heimatspur Farbe 2 ",
+          "legendValue": "Heimatspur",
           "lineStrokeColor": [
             118,
             238,
             198,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
-      },	  
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "finished"
-          }
-        },
-        "style": {
-          "legendValue": "Heimatspur geschafft",
-          "lineStrokeColor": [
-            0,
-            0,
-            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -513,7 +394,7 @@
           }
         },
         "style": {
-          "legendValue": "Vulkaneifelpfad Farbe 1",
+          "legendValue": "Vulkaneifelpfad",
           "lineStrokeColor": [
             106,
             90,
@@ -530,28 +411,11 @@
           }
         },
         "style": {
-          "legendValue": "Vulkaneifelpfad Farbe 2 ",
+          "legendValue": "Vulkaneifelpfad",
           "lineStrokeColor": [
             130,
             110,
             255,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
-      },	  
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "finished"
-          }
-        },
-        "style": {
-          "legendValue": "Vulkaneifelpfad geschafft",
-          "lineStrokeColor": [
-            0,
-            0,
-            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -569,7 +433,7 @@
           }
         },
         "style": {
-          "legendValue": "Sonstige Farbe 1",
+          "legendValue": "Sonstige Premiumwanderwege",
           "lineStrokeColor": [
             106,
             90,
@@ -586,28 +450,11 @@
           }
         },
         "style": {
-          "legendValue": "Sonstige Farbe 2 ",
+          "legendValue": "Sonstige Premiumwanderwege",
           "lineStrokeColor": [
             130,
             110,
             255,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
-      },	  
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "finished"
-          }
-        },
-        "style": {
-          "legendValue": "Sonstige geschafft",
-          "lineStrokeColor": [
-            0,
-            0,
-            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -625,7 +472,7 @@
           }
         },
         "style": {
-          "legendValue": "Traumpfade 1",
+          "legendValue": "Traumpfade",
           "lineStrokeColor": [
             255,
             50,
@@ -642,28 +489,11 @@
           }
         },
         "style": {
-          "legendValue": "Traumpfade 2 ",
+          "legendValue": "Traumpfade",
           "lineStrokeColor": [
             240,
             50,
             170,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
-      },	  
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "finished"
-          }
-        },
-        "style": {
-          "legendValue": "Traumpfade geschafft",
-          "lineStrokeColor": [
-            0,
-            0,
-            0,
             1
           ],
           "lineStrokeWidth": 3
@@ -681,7 +511,7 @@
           }
         },
         "style": {
-          "legendValue": "Saar-Hunsrück-Steig 1",
+          "legendValue": "Saar-Hunsrück-Steig",
           "lineStrokeColor": [
             255,
             215,
@@ -698,7 +528,7 @@
           }
         },
         "style": {
-          "legendValue": "Saar-Hunsrück-Steig 2 ",
+          "legendValue": "Saar-Hunsrück-Steig",
           "lineStrokeColor": [
             240,
             180,
@@ -707,19 +537,41 @@
           ],
           "lineStrokeWidth": 3
         }
-      },	  
+      }
+    ]
+  },
+    {
+    "styleId": "27",
+    "rules": [
       {
         "conditions": {
           "properties": {
-            "darstell": "finished"
+            "darstell": "F1"
           }
         },
         "style": {
-          "legendValue": "Saar-Hunsrück-Steig geschafft",
+          "legendValue": "Traumschleifchen",
           "lineStrokeColor": [
-            0,
-            0,
-            0,
+            255,
+            64,
+            64,
+            1
+          ],
+          "lineStrokeWidth": 3
+        }
+      },
+      {
+        "conditions": {
+          "properties": {
+            "darstell": "F2"
+          }
+        },
+        "style": {
+          "legendValue": "Traumschleifchen",
+          "lineStrokeColor": [
+            205,
+            51,
+            51,
             1
           ],
           "lineStrokeWidth": 3
@@ -737,7 +589,7 @@
           }
         },
         "style": {
-          "legendValue": "Eifelsteig Farbe 1",
+          "legendValue": "Eifelsteig",
           "lineStrokeColor": [
             240,
             240,
@@ -754,27 +606,10 @@
           }
         },
         "style": {
-          "legendValue": "Eifelsteig Farbe 2 ",
+          "legendValue": "Eifelsteig",
           "lineStrokeColor": [
             205,
             205,
-            0,
-            1
-          ],
-          "lineStrokeWidth": 3
-        }
-      },	  
-      {
-        "conditions": {
-          "properties": {
-            "darstell": "finished"
-          }
-        },
-        "style": {
-          "legendValue": "Eifelsteig geschafft",
-          "lineStrokeColor": [
-            0,
-            0,
             0,
             1
           ],
