@@ -140,6 +140,7 @@
     },
     "styleId": "10",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -166,6 +167,7 @@
     },
     "styleId": "11",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -192,6 +194,7 @@
     },
     "styleId": "12",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -218,6 +221,7 @@
     },
     "styleId": "13",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -241,6 +245,7 @@
 	"gfiTheme": "default",
     "styleId": "14",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -264,6 +269,7 @@
 	"gfiTheme": "default",
     "styleId": "15",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -290,6 +296,7 @@
     },
     "styleId": "16",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -312,6 +319,7 @@
 	"gfiTheme": "default",
     "styleId": "17",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -338,6 +346,7 @@
     },
     "styleId": "18",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -368,6 +377,7 @@
     },
     "styleId": "21",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -398,6 +408,7 @@
     },
     "styleId": "20",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -424,6 +435,7 @@
     },
     "styleId": "22",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -450,6 +462,7 @@
     },
     "styleId": "23",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -473,6 +486,7 @@
 	"gfiTheme": "default",
     "styleId": "24",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -496,6 +510,7 @@
 	"gfiTheme": "default",
     "styleId": "25",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -518,6 +533,7 @@
 	"gfiTheme": "default",
     "styleId": "26",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -540,6 +556,7 @@
 	"gfiTheme": "default",
     "styleId": "27",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
@@ -566,6 +583,7 @@
     },
     "styleId": "19",
     "legendURL": "",
+	"searchField": "name",
     "datasets": [
       {
         "md_id": ""
