@@ -525,6 +525,28 @@
     ],	
     "urlIsVisible": false
   },
+      			{
+    "id": "27",
+    "name": "Traumschleifchen",
+    "url": "./resources/geojson/sonst/traumschleifchen.geojson",
+    "typ": "GeoJSON",
+    "gfiAttributes": {
+      "name": "Name",
+      "km": "Länge (km)",
+	  "height": "Höhenmeter",
+	  "datum": "Gewandert am:",
+	  "link": "Link"
+    },
+	"gfiTheme": "default",
+    "styleId": "27",
+    "legendURL": "",
+    "datasets": [
+      {
+        "md_id": ""
+      }
+    ],	
+    "urlIsVisible": false
+  },
              {
     "id": "19",
     "name": "Hohes Venn",
